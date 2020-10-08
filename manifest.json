@@ -1,1 +1,0 @@
-{"id":"org.deluxeprimeiptv","version":"1.0.1","name":"Deluxeprime IPTV","description":"Deluxeprime (Iptv5latino.tv) IPTV","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["Deluxeprime"],"icon":"https://raw.githubusercontent.com/mik25/deluxeprime/main/logo.png","catalogs":[{"id":"Deluxeprimecat","name":"Deluxeprime IPTV","type":"tv"}]}
